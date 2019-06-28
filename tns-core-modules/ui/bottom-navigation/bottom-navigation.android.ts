@@ -376,6 +376,10 @@ export class BottomNavigation extends TabNavigationBase {
         }
     }
 
+    public setTabBarItemBackgroundColor(tabStripItem: TabStripItem, value: android.graphics.drawable.Drawable | Color): void {
+        // TODO: Implement in org.nativescript.widgets.BottomNavigationBar
+    }
+
     [selectedIndexProperty.setNative](value: number) {
         // const smoothScroll = false;
 

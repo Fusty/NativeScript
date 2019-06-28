@@ -583,6 +583,10 @@ export class Tabs extends TabsBase {
         }
     }
 
+    public setTabBarItemBackgroundColor(tabStripItem: TabStripItem, value: android.graphics.drawable.Drawable | Color): void {
+        // TODO: implement in org.nativescript.widgets.TabLayout
+    }
+
     [selectedIndexProperty.setNative](value: number) {
         const smoothScroll = true;
 
