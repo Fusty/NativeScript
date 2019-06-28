@@ -17,6 +17,8 @@ export function loadExamples() {
     examples.set("color", "bottom-navigation/color-page");
     examples.set("icon-title-placement", "bottom-navigation/icon-title-placement-page");
     examples.set("icon-change", "bottom-navigation/icon-change-page");
-    
+    examples.set("gestures", "bottom-navigation/gestures-page");
+    examples.set("fancy-fonts", "bottom-navigation/fancy-fonts-page");
+
     return examples;
 }
