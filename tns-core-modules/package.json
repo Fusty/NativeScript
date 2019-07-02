@@ -1,11 +1,11 @@
 {
   "name": "tns-core-modules",
-  "description": "Telerik NativeScript Core Modules",
-  "version": "6.1.0",
+  "description": "Telerik NativeScript Core Modules FORK BY FUSY",
+  "version": "666.1.0",
   "homepage": "https://www.nativescript.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NativeScript/NativeScript"
+    "url": "https://github.com/Fusty/NativeScript"
   },
   "files": [
     "**/*.d.ts",
